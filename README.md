@@ -1,2 +1,2 @@
 # university-website-project
-University web development project demonstrating usage off HTML, CSS and Javascript
+A university web development project created using HTML, CSS and JavaScript. The project demonstrates webpage structure, styling, navigation and interactive functionality.
